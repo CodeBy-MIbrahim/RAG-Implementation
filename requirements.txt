@@ -8,3 +8,15 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
+python-docx
+unstructured
+docx2txt
+unstructured[docx]
+pandas
+openpyxl
+jq
+matplotlib
+## Embeddings 
+langchain-huggingface
+sentence-transformers 
+dotenv
